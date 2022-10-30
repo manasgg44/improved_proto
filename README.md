@@ -5,4 +5,8 @@ The implementation is based on the Prototypical networks implementation in Torch
 
 Torchmeta
 
-Creating a seperate python virtual environment using the python venv command is advisable.
+Creating a seperate python virtual environment using the following command is advisable.
+
+  python venv -m meta
+
+  source meta/bin/activate
